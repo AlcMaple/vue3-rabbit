@@ -1,6 +1,6 @@
 # vue3-rabbit
 
-This template should help get you started developing with Vue 3 in Vite.
+The project uses the vue.js development framework, which can help you develop vue3 projects in vite
 
 ## Recommended IDE Setup
 
